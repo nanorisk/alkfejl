@@ -1,2 +1,2 @@
-# Alkalmazások fejlesztése próba
+# Alkalmazások fejlesztése próba2
 Alkfejl bead
